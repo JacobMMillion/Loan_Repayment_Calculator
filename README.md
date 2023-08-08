@@ -1,2 +1,2 @@
 # FirstProject
-My first project, financial manager
+My first python project
